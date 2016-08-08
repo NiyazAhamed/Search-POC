@@ -11,17 +11,17 @@ public class SearchApplication {
 	public static void main(String args[]) {
 		SearchService service = new SearchServiceImpl();
 
+		Response response = service.search(Method.RegularExpression,"century");
 
+		System.out.println(response);
 
-		long startTime = System.currentTimeMillis();
+		response = service.search(Method.Indexed,"century");
 
-		for (long i=0; i <=3 ; i++){
-			Response response = service.search(Method.RegularExpression,"century");
-			System.out.println(response);
-		}
+		System.out.println(response);
 
-		System.out.println(System.currentTimeMillis() - startTime);
+		response = service.search(Method.StringMatch,"century");
 
+		System.out.println(response);
 
 	}
 }
