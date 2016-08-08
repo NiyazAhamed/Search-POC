@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.basho.riak:riak-client:2.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basho.riak/riak-client/2.0.0/7f3c35ba166d4a7b54804f9d8ec35fc476ac08e6/riak-client-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basho.riak/riak-client/2.0.0/d158827f0ed740b23caec65fb985261d8153166c/riak-client-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.basho.riak.protobuf:riak-pb:2.0.0.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basho.riak.protobuf/riak-pb/2.0.0.16/8a4b9ba2d76f08086a6586e3c109738427c95b3d/riak-pb-2.0.0.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.basho.riak.protobuf/riak-pb/2.0.0.16/ff4f5e45c60a7277fa54f5b930dc95bcc3884fa/riak-pb-2.0.0.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

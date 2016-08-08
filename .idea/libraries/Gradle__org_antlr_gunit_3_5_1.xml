@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.antlr:gunit:3.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/gunit/3.5.1/b8338e826b8cbac399bc851257f5de897c9dd57f/gunit-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/gunit/3.5.1/1aefec8a2d7328d61acc1164ff8d38d4f6778955/gunit-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

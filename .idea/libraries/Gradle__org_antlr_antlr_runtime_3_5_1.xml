@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.antlr:antlr-runtime:3.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.1/687cc3df4cf76f7161f83a64a3e8187e3ce9d022/antlr-runtime-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr-runtime/3.5.1/1c713b647b7a758d48b0998f4d922d0031f99e7f/antlr-runtime-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
